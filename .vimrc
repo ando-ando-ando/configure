@@ -10,7 +10,7 @@ set nocompatible "vi非互換モード
 
     set showmode "Mode View 
 
-    set title "編集中のファイル名を表示
+    set title "edit File View
 
     set ruler " ruler View
 
