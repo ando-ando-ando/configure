@@ -26,9 +26,9 @@ set nocompatible "vi非互換モード
 
     "#######################
 
-    syntax on "カラー表示
+    syntax on " color view
 
-    set smartindent "オートインデント
+    set smartindent " auto indetn
 
     " tab関連
 
