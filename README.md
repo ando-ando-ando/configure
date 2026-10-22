@@ -1,1 +1,3 @@
 # README
+
+VIM RCM Setting
