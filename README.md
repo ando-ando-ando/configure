@@ -1,3 +1,3 @@
 # README
 
-VIM RCM Setting
+VIM RC Setting
