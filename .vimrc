@@ -18,7 +18,7 @@ set nocompatible "vi非互換モード
 
     set showmatch "括弧入力時の対応する括弧を表示
 
-    set laststatus=2 "ステータスラインを常に表示
+    set laststatus=2 "staus line 2 tab
 
     "#######################
 
