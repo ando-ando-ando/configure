@@ -2,17 +2,17 @@ set nocompatible "vi非互換モード
 
     "#######################
 
-    " 表示系
+    " Visual
 
     "#######################
 
-    set number "行番号表示
+    set number "Row View
 
-    set showmode "モード表示
+    set showmode "Mode View 
 
     set title "編集中のファイル名を表示
 
-    set ruler "ルーラーの表示
+    set ruler " ruler View
 
     set showcmd "入力中のコマンドをステータスに表示する
 
@@ -22,7 +22,7 @@ set nocompatible "vi非互換モード
 
     "#######################
 
-    " プログラミングヘルプ系
+    " Program help View
 
     "#######################
 
