@@ -14,7 +14,7 @@ set nocompatible "vi非互換モード
 
     set ruler " ruler View
 
-    set showcmd "入力中のコマンドをステータスに表示する
+    set showcmd "input command status view
 
     set showmatch "括弧入力時の対応する括弧を表示
 
