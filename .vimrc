@@ -30,7 +30,7 @@ set nocompatible "vi非互換モード
 
     set smartindent " auto indetn
 
-    " tab関連
+    " tab relathion
 
     set expandtab "タブの代わりに空白文字挿入
 
